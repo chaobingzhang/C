@@ -6,12 +6,6 @@
  */
 
 #include <stdio.h>  // 包含标准输入输出库头文件
-
-/**
- * @brief 主函数
- * @return int 返回0表示程序正常结束
- * @details 程序的入口点，执行输出操作后正常退出
- */
 int main()
 {
     printf("hello world\n");  // 输出"hello world"字符串并换行

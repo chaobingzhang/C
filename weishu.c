@@ -6,9 +6,5 @@ int main() {
     printf("int 的大小: %zu 字节\n", sizeof(int));
     printf("long 的大小: %zu 字节\n", sizeof(long));
     printf("指针的大小: %zu 字节\n", sizeof(void*));
-//fjklsdhghiurfdjh;kasdfhjk
-    //时间到了发卡机哦功夫啊呸哦i人分案
-    ///soiadfhlouakhfkjl;jh
-    
     return 0;
 }
